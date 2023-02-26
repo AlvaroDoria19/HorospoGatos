@@ -1,4 +1,9 @@
 @charset "UTF-8";
+.font-brandname {
+  font-family: "Mynerve", cursive;
+  font-size: 30px;
+}
+
 /*!
  * Bootstrap  v5.3.0-alpha1 (https://getbootstrap.com/)
  * Copyright 2011-2022 The Bootstrap Authors
