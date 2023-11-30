@@ -1,4 +1,12 @@
 @charset "UTF-8";
+.bg-colornav {
+  background-color: rgb(212, 208, 248);
+}
+
+.bg-colorfondo {
+  background-color: rgb(155, 240, 211);
+}
+
 .font-brandname {
   font-family: "Mynerve", cursive;
   font-size: 30px;
