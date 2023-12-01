@@ -1,0 +1,32 @@
+div.col-lg-4.col-sm-12.border div.contenedorimg {
+    padding:0px;
+    margin: 0px;
+  }
+
+div.contenedorimg {
+    position: relative;
+    width: 50%;
+}
+div.contenedorimg img {
+    width: 100%;
+    height: auto;
+}
+div.contenedorimg div.textosigno {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: purple;
+    font-size: 40px;
+    background-color: transparent;
+    padding: 10px;
+    display: none;
+  }
+  div.contenedorimg:hover img {
+    filter: blur(3px);
+  }
+  div.contenedorimg:hover div.textosigno {
+    font-family: 'Mynerve', cursive;
+    display: block;
+  }
+
