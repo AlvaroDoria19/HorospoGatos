@@ -1,16 +1,17 @@
 {
   "name": "horospomichisnew",
   "version": "1.0.0",
-  "description": "",
+  "description": "Pagina de Hoscopos con una API Propia",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "AlvaroDoria",
   "license": "ISC",
   "dependencies": {
     "aztro-js": "^0.1.5",
-    "bootstrap": "^5.3.0-alpha1"
+    "bootstrap": "^5.3.0-alpha1",
+    "puppeteer": "^24.8.2"
   }
 }
